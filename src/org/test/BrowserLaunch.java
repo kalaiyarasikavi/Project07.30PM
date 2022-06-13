@@ -30,5 +30,7 @@ public class BrowserLaunch {
 		
 		//close
 		driver.quit();
+		
+		System.out.println("hi");
 	}
 }
